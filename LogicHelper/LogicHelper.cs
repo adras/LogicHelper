@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LogicHelper
+namespace LogicHelperLib
 {
     /// <summary>
     /// Helper class to ease use of boolean comparisons.
